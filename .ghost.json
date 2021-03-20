@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://musing-blackwell-4efa80.netlify.app/",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://mica-molder-full-stack-dev.ghost.io",
+    "contentApiKey": "add5ff3d4e5d00074e53f9dadd"
   },
   "production": {
-    "apiUrl": "https://musing-blackwell-4efa80.netlify.app/",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://mica-molder-full-stack-dev.ghost.io",
+    "contentApiKey": "add5ff3d4e5d00074e53f9dadd"
   }
 }
